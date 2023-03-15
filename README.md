@@ -43,4 +43,7 @@ Login the primary server
 Then log into the standby server
 
 > \dt 
+
+and then
+
 > \d+ test
